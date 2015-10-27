@@ -1,0 +1,46 @@
+/*Inicio de los estilos
+COLORES BASE:
+#3C3C3B gris
+#FAA819 naranja*/
+
+/*tipo de letra*/
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+/*Contenido de la pagina*/
+
+.cuadro{
+	background-color: #FAA819;
+	width: 50%;
+	margin-top:  5%;
+	position: relative;
+	margin-left: 25%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	padding-right: 5%;
+	padding-left: 5%;
+	font-size: 30px;
+	font-family: suiza;
+}
+/*--Parte de la seccion como lo logramos, dondo el estilo de 
+	cada uno de los elementos en esta area que son imagenes, 
+	fondo y textos--*/
+.forma{
+	border-radius: 50%;
+	margin-left: 10%;
+}
+.cuadro1{
+	
+	margin-left: 10%;
+	padding-top: 10%;
+}
+/*Parte de la segunda seccion de Convocatoria-->*/
+
+.logo{
+	margin-left: 10%;
+}
+div ul li{
+	text-decoration: none;
+}
